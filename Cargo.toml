@@ -1,0 +1,4 @@
+[package]
+name = "floydcd"
+version = "0.1.0"
+authors = ["Sergey Romanov <xxsmotur@gmail.com>"]
